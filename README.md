@@ -8,5 +8,5 @@
   * Hiperparametre Optimizasyonu
   
 * Projeler:
-  * Kozmos Amazon Sentiment Analysis
+  * KOZMOS: Amazon Sentiment Analysis
   * WIKIMEDIA: Metin Ön İşleme ve Görselleştirme
