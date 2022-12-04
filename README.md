@@ -9,4 +9,4 @@
   
 * Projeler:
   * Kozmos Amazon Sentiment Analysis
-  * Wikipedia Metin Ön İşleme ve Görselleştirme
+  * WIKIMEDIA: Metin Ön İşleme ve Görselleştirme
